@@ -1,0 +1,22 @@
+.nike-shoes p{
+    font-size: 18px;
+    color:lightcoral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nike-shoes {
+    background-color: rgba(0, 0, 0, 0.712);
+}
+
+.nike-shoes img{
+    Display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 18px;
+    border: 10px solid red;
+}
+
+#z{
+    font-style: italic;
+}
+
